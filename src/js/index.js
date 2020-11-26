@@ -1,3 +1,4 @@
+import './navbar'
 import '../scss/main.scss'
 
 const btnBurger = document.querySelector('.navbar__btn')
